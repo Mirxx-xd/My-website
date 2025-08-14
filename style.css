@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 
 body {
-    background-image: url(/images/main.jpg);
+    background-image: url(images/main.jpg);
     background-position: top center;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -495,3 +495,4 @@ footer {
     
 
 }
+
