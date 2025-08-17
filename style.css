@@ -183,7 +183,7 @@ footer {
     }
 
     body {
-        background-image: url(/images/main.jpg);
+        background-image: url(images/main.jpg);
         background-repeat: repeat;
         background-position:top center;
         background-size: cover;
@@ -495,4 +495,5 @@ footer {
     
 
 }
+
 
